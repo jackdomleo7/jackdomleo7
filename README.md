@@ -1,19 +1,9 @@
-### Hi there 👋
+### Hey, I'm [Jack Domleo](https://jackdomleo.dev)
 
-What a neat little feature this is!
-I should fill it out some time!
+Find me at:
 
-<!--
-**jackdomleo7/jackdomleo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website: [jackdomleo.dev](https://jackdomleo.dev)
+- Twitter: [@jackdomleo7](https://twitter.com/jackdomleo7)
+- CodePen: [@jackdomleo7](https://codepen.io/jackdomleo7)
+- LinkedIn: [@jackdomleo7](https://www.linkedin.com/in/jackdomleo7)
+- DEV: [@jackdomleo7](https://dev.to/jackdomleo7)
