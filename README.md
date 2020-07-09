@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+What a neat little feature this is!
+I should fill it out some time!
+
 <!--
 **jackdomleo7/jackdomleo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
