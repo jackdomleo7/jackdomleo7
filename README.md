@@ -2,8 +2,9 @@
 
 Find me at:
 
-- Website:  [jackdomleo.dev](https://jackdomleo.dev)
-- Twitter:  [@jackdomleo7](https://twitter.com/jackdomleo7)
-- CodePen:  [@jackdomleo7](https://codepen.io/jackdomleo7)
-- LinkedIn: [@jackdomleo7](https://www.linkedin.com/in/jackdomleo7)
-- DEV:      [@jackdomleo7](https://dev.to/jackdomleo7)
+[![Jack Domleo Twitter Follow](https://img.shields.io/twitter/follow/jackdomleo7?style=social)](https://twitter.com/intent/follow?screen_name=jackdomleo7)
+[![Jack Domleo's DEV Profile](https://img.shields.io/badge/Blog%20on%20Dev.to-Follow-lightgrey?style=social&logo=dev.to)](https://dev.to/jackdomleo7)
+[![Jack Domleo CodePen](https://img.shields.io/badge/CodePen-Follow-lightgrey?style=social&logo=CodePen)](https://codepen.io/jackdomleo7)
+[![Jack Domleo LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=LinkedIn)](https://linkedin.com/in/jackdomleo7)
+
+[jackdomleo.dev](https://jackdomleo.dev)
