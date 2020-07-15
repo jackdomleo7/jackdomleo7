@@ -1,5 +1,7 @@
 ### Hey, I'm [Jack Domleo](https://jackdomleo.dev)
 
+![](./twitter.png)
+
 Find me at:
 
 [![Jack Domleo Twitter Follow](https://img.shields.io/twitter/follow/jackdomleo7?style=social)](https://twitter.com/intent/follow?screen_name=jackdomleo7)
