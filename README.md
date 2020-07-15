@@ -1,6 +1,6 @@
 ### Hey, I'm [Jack Domleo](https://jackdomleo.dev)
 
-![](./banner.png)
+![](https://github.com/jackdomleo7/jackdomleo7/banner.png)
 
 Find me at:
 
