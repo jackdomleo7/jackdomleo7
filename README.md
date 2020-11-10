@@ -10,4 +10,6 @@ Find me at:
 [![Jack Domleo LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=LinkedIn)](https://linkedin.com/in/jackdomleo7)
 [![Jack Domleo Gumroad](https://img.shields.io/badge/Gumroad-Follow-red?style=social&logo=gumroad)](https://gumroad.com/in/jackdomleo7)
 
-[jackdomleo.dev](https://jackdomleo.dev)
+![Jack Domleo's github stats](https://github-readme-stats.vercel.app/api?username=jackdomleo7&show_icons=true&bg_color=30,ff7f21,ff9867&title_color=fff&text_color=fff&icon_color=fff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackdomleo7&layout=compact&langs_count=10)
