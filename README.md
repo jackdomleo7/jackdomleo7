@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jackdomleo7" target="blank"><img src="https://img.shields.io/twitter/follow/jackdomleo7?logo=twitter&style=for-the-badge" alt="jackdomleo7" /></a> </p>
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
